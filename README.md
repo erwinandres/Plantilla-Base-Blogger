@@ -8,3 +8,4 @@ La idea es crear una plantilla que sirva de base para cualquier proyecto en blog
 - Contenedores con borde negro de 1px para identificarlos fácilmente.
 - Comentarios anidados.
 - HTML comentado.
+- Pllantilla móvil
